@@ -8,7 +8,7 @@ def main_menu():
         print("=="*15)
         print("1. View astronauts currently in space.")
         print("2. Track the ISS in real-time.")
-        print("3. View news headlines or stock data.")
+        print("3. View news headlines.")
         print("4. Exit application.")
         print("=="*15)
         
