@@ -1,0 +1,34 @@
+
+===Astronauts - Tue Jun 24 13:57:02 2025 ===
+Oleg Kononenko - ISS
+Nikolai Chub - ISS
+Tracy Caldwell Dyson - ISS
+Matthew Dominick - ISS
+Michael Barratt - ISS
+Jeanette Epps - ISS
+Alexander Grebenkin - ISS
+Butch Wilmore - ISS
+Sunita Williams - ISS
+Li Guangsu - Tiangong
+Li Cong - Tiangong
+Ye Guangfu - Tiangong
+
+=== ISS Location - Tue Jun 24 13:57:17 2025 ===
+Latitude: -22.9134, Longitude: 33.4312
+
+===Astronauts - Tue Jun 24 14:26:49 2025 ===
+Oleg Kononenko - ISS
+Nikolai Chub - ISS
+Tracy Caldwell Dyson - ISS
+Matthew Dominick - ISS
+Michael Barratt - ISS
+Jeanette Epps - ISS
+Alexander Grebenkin - ISS
+Butch Wilmore - ISS
+Sunita Williams - ISS
+Li Guangsu - Tiangong
+Li Cong - Tiangong
+Ye Guangfu - Tiangong
+
+=== ISS Location - Tue Jun 24 14:27:14 2025 ===
+Latitude: -26.1325, Longitude: 163.3924
